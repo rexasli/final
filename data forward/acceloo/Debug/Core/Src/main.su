@@ -1,0 +1,8 @@
+../Core/Src/main.c:67:6:combiner	8	static
+../Core/Src/main.c:72:6:cleaner	16	static
+../Core/Src/main.c:85:5:main	24	static
+../Core/Src/main.c:151:6:SystemClock_Config	88	static
+../Core/Src/main.c:197:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:235:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:284:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:296:6:Error_Handler	4	static,ignoring_inline_asm
